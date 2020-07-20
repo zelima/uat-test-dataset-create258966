@@ -1,0 +1,31 @@
+{
+  "data_privacy_regulated": false, 
+  "description": "empty", 
+  "contributors": [
+    {
+      "role": "maintainer", 
+      "email": "Irakli.Mchedlishvili@gatesfoundation.org", 
+      "title": "irakli-mchedlishvili"
+    }
+  ], 
+  "geographic_level": "global", 
+  "data_privacy_country": [
+    "ARG"
+  ], 
+  "visibility": "public", 
+  "licenses": [
+    {
+      "name": "cc-by"
+    }
+  ], 
+  "id": "99e9806b-a9a9-4ccf-8f70-2e3a8a4af295", 
+  "publisher": "irakli-mchedlishvili", 
+  "information_classification": "public-public-external", 
+  "locked": false, 
+  "name": "uat-test-dataset-create258966", 
+  "title": "uat-test-dataset-create258966", 
+  "owner_org": "8b2f0f99-138e-4b08-ac25-c3f97a8ee516", 
+  "private": false, 
+  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "type": "dataset"
+}
